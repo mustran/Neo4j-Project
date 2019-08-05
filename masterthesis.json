@@ -1,0 +1,39 @@
+[
+    {
+        "key": "ms/Brown92",
+        "author": ["Kurt P. Brown"],
+        "title": ["PRPL: A Database Workload Specification Language, v1.3."],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "ms/Yurek97",
+        "author": ["Tolga Yurek"],
+        "title": ["Efficient View Maintenance at Data Warehouses."],
+        "year": ["1997"],
+        "school": ["University of California at Santa Barbara, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Schulte92",
+        "author": ["Christian Schulte"],
+        "title": [
+            "Entwurf und Implementierung eines übersetzenden Systems für das intuitionistische logische Programmieren auf der Warren Abstract Machine."
+        ],
+        "year": ["1991"],
+        "school": ["Universität Karlsruhe, Institut für Logik, Komplexität und Deduktionssysteme"]
+    },
+    {
+        "key": "phd/VanRoy84",
+        "author": ["Peter Van Roy"],
+        "title": ["A Prolog Compiler for the PLM."],
+        "year": ["1984"],
+        "school": ["University of California at Berkeley"]
+    },
+    {
+        "key": "phd/Ylonen94",
+        "author": ["Tatu Ylönen"],
+        "title": ["Shadow Paging Is Feasible."],
+        "year": ["1994"],
+        "school": ["Helsinki University of Technology, Department of Computer Science"]
+    }
+]

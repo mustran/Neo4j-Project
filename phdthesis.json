@@ -1,0 +1,542 @@
+[
+    {
+        "key": "phd/Sikeler89",
+        "author": ["Andra Sikeler"],
+        "title": ["Implementierungskonzepte für Non-Standard-Datenbanksysteme."],
+        "year": ["1989"],
+        "school": ["Universität Kaiserslautern"]
+    },
+    {
+        "key": "phd/Mumick91",
+        "author": ["Inderpal Singh Mumick"],
+        "title": ["Query Optimization in Deductive and Relational Databases"],
+        "year": ["1991"],
+        "school": ["Department of Computer Science, Stanford University"]
+    },
+    {
+        "key": "phd/Srivastava93",
+        "author": ["Divesh Srivastava"],
+        "title": [
+            "Representing and Querying Complex Information in the Coral Deductive Database System."
+        ],
+        "year": ["1993"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Arge96",
+        "author": ["Lars Arge"],
+        "title": ["Efficient External-Memory Data Structures and Applications."],
+        "year": ["1996"],
+        "series": ["BRICS Dissertation Series"],
+        "number": ["DS-96-3"],
+        "school": ["University of Aarhus"]
+    },
+    {
+        "key": "phd/Proebsting92",
+        "author": ["Todd A. Proebsting"],
+        "title": ["Code Generation Techniques."],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Gehlen92",
+        "author": ["Erich Gehlen"],
+        "title": ["Optimierung der Anfrageauswertung in einem Deduktiven Datenbanksystem."],
+        "year": ["1992"],
+        "school": ["Uni Trier, Informatik"]
+    },
+    {
+        "key": "phd/Derr92",
+        "author": ["Marcia A. Derr"],
+        "title": ["Adaptive Optimization in a Database Programming Language"],
+        "year": ["1992"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Olken93",
+        "author": ["Frank Olken"],
+        "title": ["Random Sampling from Databases"],
+        "year": ["1993"],
+        "school": ["University of California at Berkeley"],
+        "publisher": ["LBL Technical Report"],
+        "number": ["LBL-32883"]
+    },
+    {
+        "key": "phd/Montanari96",
+        "author": ["Angelo Montanari"],
+        "title": ["Metric and Layered Temporal Logic for Time Granularity"],
+        "year": ["1996"],
+        "school": ["ILLC Dissertation Series 1996-02, University of Amsterdam"]
+    },
+    {
+        "key": "phd/Dan90",
+        "author": ["Asit Dan"],
+        "title": ["Performance Analysis of Data Sharing Environments"],
+        "year": ["1990"],
+        "school": ["University of Massachusetts, Amherst"]
+    },
+    {
+        "key": "phd/Dar93",
+        "author": ["Shaul Dar"],
+        "title": ["Augmenting Databases with Generalized Transitive Closure"],
+        "year": ["1993"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Kang91",
+        "author": ["Younkyung Cha Kang"],
+        "title": ["Randomized Algorithms for Query Optimization."],
+        "year": ["1991"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Kemp92",
+        "author": ["David B. Kemp"],
+        "title": ["On the Foundations of Query Evaluation in Deductive Databases"],
+        "year": ["1992"],
+        "school": ["University of Melbourne, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Holmer93",
+        "author": ["Bruce K. Holmer"],
+        "title": ["Automatic Design of Computer Instruction Sets"],
+        "year": ["1993"],
+        "school": ["University of California at Berkeley"]
+    },
+    {
+        "key": "phd/Cochrane92",
+        "author": ["Roberta Cochrane"],
+        "title": ["Issues in Integrating Actice Rules Into Database Systems"],
+        "year": ["1992"],
+        "school": ["University of Maryland, Department of Computer Science, College Park, MD"]
+    },
+    {
+        "key": "phd/Kooi80",
+        "author": ["Robert Kooi"],
+        "title": ["The Optimization of Queries in Relational Databases."],
+        "year": ["1980"],
+        "month": ["September"],
+        "school": ["Case Western Reserve University"]
+    },
+    {
+        "key": "phd/Ordille93",
+        "author": ["Joann J. Ordille"],
+        "title": ["Descriptive Name Services for Large Internets."],
+        "year": ["1993"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Mark85",
+        "author": ["Leo Mark"],
+        "title": ["Self-Describing Database Systems - Formalization and Realization"],
+        "year": ["1985"],
+        "school": ["University of Maryland, Department of Computer Science, College Park, MD"]
+    },
+    {
+        "key": "phd/White94",
+        "author": ["Seth J. White"],
+        "title": ["Pointer Swizzling Techniques for Object-Oriented Database Systems"],
+        "year": ["1994"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/McKusick84",
+        "author": ["Marshall K. McKusick"],
+        "title": ["Register Allocation and Data Conversion in Machine Independent Code Generators"],
+        "year": ["1984"],
+        "school": ["University of California at Berkeley"]
+    },
+    {
+        "key": "phd/Carey83",
+        "author": ["Michael J. Carey"],
+        "title": ["Modeling and Evaluation of Database Concurrency Control Algorithms"],
+        "year": ["1983"],
+        "school": ["College of Engineering, University of California, Berkeley"]
+    },
+    {
+        "key": "phd/Morris91",
+        "author": ["Katherine A. Morris"],
+        "title": ["Subgoal Order for Query Optimization in Logic Databases."],
+        "year": ["1991"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Post94",
+        "author": ["Kjell Post"],
+        "title": ["Analysis and Transformation of Logic Programs."],
+        "year": ["1994"],
+        "school": ["University of California at Santa Cruz"]
+    },
+    {
+        "key": "phd/Sieg89",
+        "author": ["John Sieg Jr."],
+        "title": ["Making Extensible Database Technology Work."],
+        "year": ["1989"],
+        "school": ["Boston Univerity"]
+    },
+    {
+        "key": "phd/McKenna93",
+        "author": ["William J. McKenna"],
+        "title": [
+            "Efficient Search in Extensible Query Optimization: The Volcano Optimizer Generator"
+        ],
+        "year": ["1993"],
+        "school": ["University of Colorado-Boulder"]
+    },
+    {
+        "key": "phd/Reverbel96",
+        "author": ["Francisco Reverbell"],
+        "title": ["Persistence in Distributed Object Systems: ORB/ODBMS Integration."],
+        "year": ["1996"],
+        "month": ["April"],
+        "school": ["University of New Mexico"]
+    },
+    {
+        "key": "phd/Franklin93",
+        "author": ["Michael J. Franklin"],
+        "title": ["Caching and Memory Management in Client-Server Database Systems"],
+        "year": ["1993"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Lieuwen92",
+        "author": ["Daniel F. Lieuwen"],
+        "title": [
+            "Optimizing and Parallelizing Loops in Object-Oriented Database Programming Languages."
+        ],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Wong94",
+        "author": ["Limsoon Wong"],
+        "title": ["Querying Nested Collections."],
+        "year": ["1994"],
+        "school": ["Univ. Pennsylvania"]
+    },
+    {
+        "key": "phd/Seipel89",
+        "author": ["Dietmar Seipel"],
+        "title": ["Decomposition in Database and Knowledge-Base Systems."],
+        "year": ["1989"],
+        "school": ["Uni Würzburg"]
+    },
+    {
+        "key": "phd/Sripada91",
+        "author": ["Suryanarayana M. Sripada"],
+        "title": ["Temporal Reasoning in Deductive Databases"],
+        "year": ["1991"],
+        "school": ["Imperial College of Science, University of London"]
+    },
+    {
+        "key": "phd/Motakis97",
+        "author": ["Iakovos Motakis"],
+        "title": ["Temporal Reasoning in Active Databases."],
+        "year": ["1997"],
+        "school": ["University of California at Los Angeles"]
+    },
+    {
+        "key": "phd/Srinivasan92",
+        "author": ["V. Srinivasan"],
+        "title": ["On-Line Processing in Large-Scale Transaction Systems."],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Turpin92",
+        "author": ["Russell Turpin"],
+        "title": ["Programming Data Structures in Logic."],
+        "year": ["1992"],
+        "school": ["University of Texas, Austin"]
+    },
+    {
+        "key": "phd/Sudarshan92",
+        "author": ["S. Sudarshan"],
+        "title": ["Optimizing Bottom-Up Query Evaluation for Deductive Databases."],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Nilsson92",
+        "author": ["Ulf Nilsson"],
+        "title": [
+            "Abstract Interpretation & Abstract Machines: Contribution to a Methodology for the Implementation of Logic Programs."
+        ],
+        "year": ["1992"],
+        "school": ["Linköping University, Department of Computer and Information Science"]
+    },
+    {
+        "key": "phd/Getzinger93",
+        "author": ["Thomas W. Getzinger"],
+        "title": ["Abstract Interpretation for the Compile-Time Optimization of Logic Programs"],
+        "year": ["1993"],
+        "school": ["University of Southern California"]
+    },
+    {
+        "key": "phd/Schiwietz93",
+        "author": ["Michael Schiwietz"],
+        "title": ["Speicherung und Anfragebearbeitung komplexer Geo-Objekte"],
+        "year": ["1993"],
+        "school": ["Ludwig-Maximilian-Universität München"],
+        "publisher": ["Verlag Shaker"],
+        "isbn": ["3-86111-723-1"]
+    },
+    {
+        "key": "phd/Robinson82",
+        "author": ["John T. Robinson"],
+        "title": ["Design of Concurrency Control Protocols for Transaction Processing Systems."],
+        "year": ["1982"],
+        "school": ["Carnegie Mellon University"]
+    },
+    {
+        "key": "phd/Chambers92",
+        "author": ["Craig Chambers"],
+        "title": [
+            "The Design and Implementation of the SELF Compiler, an Optimizing Compilet for Object-Oriented Programming Languages"
+        ],
+        "year": ["1992"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Bohlen94",
+        "author": ["Michael H. Böhlen"],
+        "title": ["The Temporal Deductive Database System ChronoLog"],
+        "year": ["1994"],
+        "school": ["Departement Informatik, ETH Zürich"]
+    },
+    {
+        "key": "phd/Dobry87",
+        "author": ["Tep Dobry"],
+        "title": ["A High Performance Architecture For Prolog"],
+        "year": ["1987"],
+        "school": ["University of California at Berkeley"]
+    },
+    {
+        "key": "phd/Taylor91",
+        "author": ["Andrew Taylor"],
+        "title": ["High Performance Prolog Implementation"],
+        "year": ["1991"],
+        "school": ["University of Sydney, Basser Department of Computer Science"]
+    },
+    {
+        "key": "phd/Smolka89",
+        "author": ["Gert Smolka"],
+        "title": ["Logic Programming over Polymorphically Order-Sorted Tyypes."],
+        "year": ["1989"],
+        "school": ["Universität Kaiserslautern"]
+    },
+    {
+        "key": "phd/VanRoy90",
+        "author": ["Peter Van Roy"],
+        "title": ["Can Logic Programming Execute as Fast as Imperative Programming?"],
+        "year": ["1990"],
+        "school": ["University of California at Berkeley"]
+    },
+    {
+        "key": "phd/Sullivan93",
+        "author": ["Mark Sullivan"],
+        "title": [
+            "System Support for Software Fault Tolerance in Highly Available Database Management Systems."
+        ],
+        "year": ["1993"],
+        "school": ["University of California at Berkeley"]
+    },
+    {
+        "key": "phd/Shang94",
+        "author": ["Heping Shang"],
+        "title": ["Trie Methods for Text and Spatial Data on Secondary Storage."],
+        "year": ["1994"],
+        "school": ["McGill University"]
+    },
+    {
+        "key": "phd/Mitchell93",
+        "author": ["Gail Mitchell"],
+        "title": ["Extensible Query Processing in an Object-Oriented Database."],
+        "year": ["1993"],
+        "school": ["Brown University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Chervenak94",
+        "author": ["Ann L. Chervenak"],
+        "title": ["Tertiary Storage: An Evaluation of New Applications"],
+        "year": ["1994"],
+        "school": ["U. C. Berkeley"]
+    },
+    {
+        "key": "phd/Dijkstra59",
+        "author": ["Edsger W. Dijkstra"],
+        "title": ["Communication with an Automatic Computer"],
+        "year": ["1959"],
+        "publisher": ["Excelsior"],
+        "school": ["University of Amsterdam"],
+        "ee": ["http://www.cs.utexas.edu/users/EWD/PhDthesis/PhDthesis.PDF"]
+    },
+    {
+        "key": "phd/Simon86",
+        "author": ["Eric Simon"],
+        "title": [
+            "Conception et Realisation d'un sous Systeme d'Intgerite dans un SGBD Relationnel"
+        ],
+        "year": ["1986"],
+        "school": ["Univerite de Paris VI"]
+    },
+    {
+        "key": "phd/Poosala97",
+        "author": ["Viswanath Poosala"],
+        "title": ["Histogram-Based Estimation Techniques in Database Systems."],
+        "year": ["1997"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Steenhagen95",
+        "author": ["Hennie J. Steenhagen"],
+        "title": ["Optimization of Object Query Languages."],
+        "year": ["1995"],
+        "school": ["University of Twente"]
+    },
+    {
+        "key": "phd/Friedman92",
+        "author": ["Mark A. Friedman"],
+        "title": ["A Characterization of Prolog Execution"],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Waterfeld91",
+        "author": ["Walter Waterfeld"],
+        "title": [
+            "Eine erweiterbare Speicher- und Zugriffskomponente für geowissenschaftliche Datenbanksysteme."
+        ],
+        "year": ["1991"],
+        "school": ["Technische Universität Darmstadt"]
+    },
+    {
+        "key": "phd/Weikum86",
+        "author": ["Gerhard Weikum"],
+        "title": ["Transaktionsverwaltung in Datenbanksystemen mit Schichtenarchitektur."],
+        "year": ["1986"],
+        "school": ["Technische Universität Darmstadt"]
+    },
+    {
+        "key": "phd/Narain88",
+        "author": ["Sanjai Narain"],
+        "title": [
+            "LOG(F): An Optimal Combination of Logic Programming, Rewriting and Lazy Evaluation."
+        ],
+        "year": ["1988"],
+        "school": ["University of California at Los Angeles"]
+    },
+    {
+        "key": "phd/Ganguly92",
+        "author": ["Sumit Ganguly"],
+        "title": ["Parallel Evaluation of Deductive Database Queries."],
+        "year": ["1992"],
+        "school": ["University of Texas, Austin"]
+    },
+    {
+        "key": "phd/Swami89",
+        "author": ["Arun N. Swami"],
+        "title": ["Optimization of Large Join Queries"],
+        "year": ["1989"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Malachi86",
+        "author": ["Yonathan Malachi"],
+        "title": ["Nonclausal Logic Programming"],
+        "year": ["1986"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/McKenzie88",
+        "author": ["Edwin McKenzie"],
+        "title": ["An Algebraic Language for Query and Update of Temporal Databases"],
+        "year": ["1988"],
+        "month": ["September"],
+        "school": ["University of North Carolina, Computer Science Department"]
+    },
+    {
+        "key": "phd/Graefe87",
+        "author": ["Goetz Graefe"],
+        "title": ["Rule-Based Query Optimization in Extensible Database Systems"],
+        "year": ["1987"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Tsangaris92",
+        "author": ["Manoli M. Tsangaris"],
+        "title": ["Principles of Static Clustering for Object Oriented Databases"],
+        "year": ["1992"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Specht92",
+        "author": ["Günther Specht"],
+        "title": [
+            "Source-to-Source Transformationen zur Erklärung des Programmverhaltens bei deduktiven Datenbanken."
+        ],
+        "year": ["1992"],
+        "school": ["Technische Universität München"]
+    },
+    {
+        "key": "phd/Guttman84",
+        "author": ["Antonin Guttman"],
+        "title": ["New Features for Relational Database Systems to Support CAD Applications"],
+        "year": ["1984"],
+        "school": ["University of California, Berkeley"]
+    },
+    {
+        "key": "phd/Ghemawat95",
+        "author": ["Sanjay Ghemawat"],
+        "title": [
+            "The Modified Object Buffer: A Storage Management Technique for Object-Oriented Databases"
+        ],
+        "year": ["1995"],
+        "school": ["MIT Laboratory for Computer Science"]
+    },
+    {
+        "key": "phd/Hasse95",
+        "author": ["Christof Hasse"],
+        "title": [
+            "Inter- und Intratransaktionsparallelität in Datenbanksystemen: Entwurf, Implementierung und Evaluation eines Datenbanksystems mit Inter- und Intratransaktionsparallelität"
+        ],
+        "year": ["1995"],
+        "number": ["11045"],
+        "school": ["Departement Informatik, ETH Zürich"]
+    },
+    {
+        "key": "phd/Hayes93",
+        "author": ["Barry Hayes"],
+        "title": ["Key Objects in Garbage Collection"],
+        "year": ["1993"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Seshadri96",
+        "author": ["Praveen Seshadri"],
+        "title": ["Management of Sequence Data"],
+        "year": ["1996"],
+        "school": ["Univ. of Wisconsin-Madison, CS Department"]
+    },
+    {
+        "key": "phd/Phipps92",
+        "author": ["Geoffrey Phipps"],
+        "title": ["Glue: A Deductive Database Programming Language"],
+        "year": ["1992"],
+        "school": ["Stanford University, Department of Computer Science"]
+    },
+    {
+        "key": "phd/Hellerstein95",
+        "author": ["Joseph M. Hellerstein"],
+        "title": ["Optimization and Execution Techniques for Queries With Expensive Methods"],
+        "year": ["1995"],
+        "school": ["Univ. of Wisconsin-Madison"]
+    },
+    {
+        "key": "phd/Seltzer92",
+        "author": ["Margo I. Seltzer"],
+        "title": ["File System Performance and Transaction Support."],
+        "year": ["1992"],
+        "school": ["University of California at Berkeley"]
+    }
+]

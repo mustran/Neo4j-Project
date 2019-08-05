@@ -1,0 +1,245 @@
+[
+    {
+        "key": "www/fi/hut-som",
+        "title": ["Self-organizing Map"],
+        "url": ["http://www.cis.hut.fi/nnrc/nnrc-programs.html"]
+    },
+    {
+        "key": "www/fr/ardentsoftware",
+        "title": ["Ardent Software"],
+        "url": ["http://www.ardentsoftware.fr"]
+    },
+    {
+        "key": "www/it/stet-mpeg",
+        "title": ["The MPEG Home Page"],
+        "url": ["http://drogo.cselt.stet.it/mpeg/"]
+    },
+    {
+        "key": "www/com/ibm/db2",
+        "title": ["IBM DB2"],
+        "url": ["http://www.software.ibm.com/data/db2/"]
+    },
+    {
+        "key": "www/com/odi",
+        "title": ["Objectstore"],
+        "url": ["http://www.odi.com"]
+    },
+    {
+        "key": "www/com/persistence",
+        "title": ["Persistence Software"],
+        "url": ["http://www.persistence.com/"]
+    },
+    {
+        "key": "www/com/poet",
+        "title": ["Poet"],
+        "url": ["http://www.poet.com"]
+    },
+    {
+        "key": "www/com/altavista",
+        "title": ["AltaVista"],
+        "url": ["http://www.altavista.com/"]
+    },
+    {
+        "key": "www/com/lycos",
+        "title": ["Lycos"],
+        "url": ["http://www.lycos.com"]
+    },
+    {
+        "key": "www/com/ontos",
+        "title": ["Ontos"],
+        "url": ["http://www.ontos.com/"]
+    },
+    {
+        "key": "www/com/yahoo",
+        "title": ["Yahoo"],
+        "url": ["http://www.yahoo.com/"]
+    },
+    {
+        "key": "www/com/metacrawler",
+        "title": ["MetaCrawler"],
+        "url": ["http://www.metacrawler.com"]
+    },
+    {
+        "key": "www/com/google",
+        "title": ["Google"],
+        "url": ["http://www.google.com"]
+    },
+    {
+        "key": "www/com/versant",
+        "title": ["Versant ODBMS"],
+        "url": ["http://www.versant.com"]
+    },
+    {
+        "key": "www/com/objectivity-wp-choosing",
+        "title": ["Objectivity White Paper: Choosing an Object Database"],
+        "year": ["1998"],
+        "url": ["http://www.objectivity.com/ObjectDatabase/WP/Choosing/Choosing.html"]
+    },
+    {
+        "key": "www/com/sun-java",
+        "title": ["Java Language Home Page"],
+        "url": ["http://java.sun.com/"]
+    },
+    {
+        "key": "www/com/cdrom-zlib",
+        "author": ["Jean-Loup Gailly", "Mark Adler"],
+        "title": ["Zlib Home Page [old location: http://quest.jpl.nasa.gov/zlib]"],
+        "url": ["http://www.cdrom.com/pub/infozip/zlib/"]
+    },
+    {
+        "key": "www/gov/nasa/beowulf",
+        "title": ["Beowulf Project at CESDIS"],
+        "url": ["http://beowulf.gsfc.nasa.gov/beowulf.html"]
+    },
+    {
+        "key": "www/org/w3/TR/NOTE-xml-ql",
+        "author": [
+            "Alin Deutsch",
+            "Mary F. Fernandez",
+            "Daniela Florescu",
+            "Alon Y. Levy",
+            "Dan Suciu"
+        ],
+        "title": ["Xml-ql: A Query Language for XML"],
+        "url": ["http://www.w3.org/TR/NOTE-xml-ql/"]
+    },
+    {
+        "key": "www/org/w3/TR/query-datamodel",
+        "editor": ["Mary F. Fernandez", "Jonathan Robie"],
+        "title": ["XML Query Data Model"],
+        "year": ["2001"],
+        "url": ["http://www.w3.org/TR/query-datamodel"]
+    },
+    {
+        "key": "www/org/w3/TR/xmlquery-req",
+        "editor": [
+            "Donald D. Chamberlin",
+            "Peter Fankhauser",
+            "Massimo Marchiori",
+            "Jonathan Robie"
+        ],
+        "title": ["XML Query Requirements"],
+        "year": ["2001"],
+        "url": ["http://www.w3.org/TR/xmlquery-req"]
+    },
+    {
+        "key": "www/org/w3/TR/xmlquery-use-cases",
+        "editor": [
+            "Donald D. Chamberlin",
+            "Peter Fankhauser",
+            "Massimo Marchiori",
+            "Jonathan Robie"
+        ],
+        "title": ["XML Query Use Cases"],
+        "year": ["2001"],
+        "url": ["http://www.w3.org/TR/xmlquery-use-cases"]
+    },
+    {
+        "key": "www/org/w3/TR/query-algebra",
+        "editor": [
+            "Peter Fankhauser",
+            "Mary F. Fernandez",
+            "Ashok Malhotra",
+            "Michael Rys",
+            "Jérôme Siméon",
+            "Philip Wadler"
+        ],
+        "title": ["The XML Query Algebra"],
+        "year": ["2001"],
+        "url": ["http://www.w3.org/TR/query-algebra"]
+    },
+    {
+        "key": "www/org/w3/TR/xquery",
+        "editor": [
+            "Donald D. Chamberlin",
+            "Daniela Florescu",
+            "Jonathan Robie",
+            "Jérôme Siméon",
+            "Mugur Stefanescu"
+        ],
+        "title": ["XQuery: A Query Language for XML"],
+        "year": ["2001"],
+        "url": ["http://www.w3.org/TR/xquery"]
+    },
+    {
+        "key": "www/org/w3/TR/REC-xml",
+        "title": ["W3C: Extensible Markup Language (XML) 1.0"],
+        "url": ["http://www.w3.org/TR/REC-xml"]
+    },
+    {
+        "key": "www/org/w3/dom",
+        "title": ["W3C: Document Oject Model (DOM)"],
+        "url": ["http://www.w3.org/DOM/"]
+    },
+    {
+        "key": "www/org/w3/w3c",
+        "title": ["W3C - The World Wide Web Consortium"],
+        "url": ["http://www.w3.org/"]
+    },
+    {
+        "key": "www/org/w3/ql98",
+        "title": ["W3C: The w3c Query Language Workshop, December 1998, Boston, MA, USA"],
+        "year": ["1998"],
+        "url": ["http://www.w3.org/TandS/QL/QL98/"]
+    },
+    {
+        "key": "www/org/w3/rfc1738",
+        "author": ["Tim Berners-Lee"],
+        "title": ["Request for Comments: 1738, Uniform Resource Locators (URL)"],
+        "year": ["1994"],
+        "url": ["http://www.w3.org/Addressing/rfc1738.txt"]
+    },
+    {
+        "key": "www/org/w3/style-xsl",
+        "title": ["W3C: Extensible Stylesheet Language (XSL)"],
+        "url": ["http://www.w3.org/Style/XSL/"]
+    },
+    {
+        "key": "www/org/w3/http1.1",
+        "author": ["Roy T. Fielding", "Henrik Frystyk Nielsen", "Tim Berners-Lee"],
+        "title": ["Internet Draft: Hypertext Transfer Protocol - HTTP/1.1"],
+        "url": ["http://www.w3.org/Protocols/HTTP/1.1/spec.html"]
+    },
+    {
+        "key": "www/org/omg/uml-notation-guide",
+        "title": ["OMG, UML Notation Guide, Version 1.1"],
+        "year": ["1997"],
+        "url": ["http://www.omg.org/techprocess/meetings/schedule/Technology_Adoptions.htm"]
+    },
+    {
+        "key": "www/org/tpc",
+        "title": ["Transaction Processing Performance Council"],
+        "url": ["http://www.tpc.org"]
+    },
+    {
+        "key": "www/org/kaffe",
+        "title": ["KAFFE"],
+        "url": ["http://www.kaffe.org/"]
+    },
+    {
+        "key": "www/org/mitre/future",
+        "author": ["Arnon Rosenthal"],
+        "title": ["The Future of Classic Data Administration: Objects + Databases + CASE"],
+        "booktitle": ["SWEE"],
+        "year": ["1998"],
+        "url": ["http://www.mitre.org/support/swee/rosenthal.html"]
+    },
+    {
+        "key": "www/org/oasis-open-cover-xml",
+        "author": ["Robin Cover"],
+        "title": ["The SGML/XML Web Page"],
+        "url": ["http://www.oasis-open.org/cover/xml.html"]
+    },
+    {
+        "key": "www/org/aiim-wfmc",
+        "title": ["WfMC Standards: The Workflow Reference Model, Version 1.1."],
+        "year": ["1995"],
+        "url": ["http://www.aiim.org/wfmc/mainframe.htm"]
+    },
+    {
+        "key": "persons/Ley93",
+        "author": ["Michael Ley"],
+        "title": ["DBLP.uni-trier.de: Computer Science Bibliography"],
+        "url": ["http://dblp.uni-trier.de/"]
+    }
+]
