@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const rawdata = fs.readFileSync("JSON-Sample.json");
+const rawdata = fs.readFileSync("../XML to JSON example/JSON-Sample.json");
 let json_sample = JSON.parse(rawdata);
 
 function correctKey(attrName) {
@@ -22,7 +22,7 @@ correctKey("$");
 
 let data = JSON.stringify(json_sample);
 
-fs.writeFile("sampleCorrectKey.json", data, err => {
+fs.writeFile("../XML to JSON example/sampleCorrectKey.json", data, err => {
     if (err) console.log(err);
     else {
         // console.log(data);

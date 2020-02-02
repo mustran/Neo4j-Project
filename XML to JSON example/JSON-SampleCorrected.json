@@ -1,0 +1,43 @@
+[
+    {
+        "ee": "db/conf/dl/MarchioniniNWDBRGEH97.html",
+        "author": [
+            "Gary Marchionini",
+            "Victor Nolet",
+            "Hunter Williams",
+            "Wei Ding",
+            "Josephus Beale Jr.",
+            "Anne Rose",
+            "Allison Gordon",
+            "Ernestine Enomoto",
+            "Lynn Harbinson"
+        ],
+        "title": "Content + Connectivity => Community: Digital Resources for a Learning Community.",
+        "pages": "212-220",
+        "cdrom": "DL1997/P212.pdf",
+        "year": 1997,
+        "crossref": "conf/dl/97",
+        "booktitle": "ACM DL",
+        "url": ["db/conf/dl/dl97.html#MarchioniniNWDBRGEH97"],
+        "cite": [
+            "conf/chi/AhlbergWS92",
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "journals/mta/HampapurJW95",
+            "...",
+            "...",
+            "...",
+            "journals/cacm/MarchioniniM95",
+            "...",
+            "...",
+            "...",
+            "...",
+            "...",
+            "conf/sigir/WilliamsonS92"
+        ],
+        "key": "conf/dl/MarchioniniNWDBRGEH97"
+    }
+]

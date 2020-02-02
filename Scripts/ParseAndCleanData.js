@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const rawdata = fs.readFileSync("databaseNodeToClean.json");
+const rawdata = fs.readFileSync("../XML to JSON example/sampleCorrectKey.json");
 let databaseNodeToClean = JSON.parse(rawdata);
 
 //GET ALL ATTRIBUTES
@@ -55,16 +55,24 @@ function correctCite(attrName) {
     });
 }
 
-
 //call the needed function for all the keys in a JSON document (databaseNodeToClean) ex. article, book
 //example: Usage
 //checkAttributesAndReturnString("title");
 //checkAttributesAndParseInt("year");
 //correctCite("cite");
 
+checkAttributesAndReturnString("ee");
+checkAttributesAndReturnString("title");
+checkAttributesAndReturnString("pages");
+checkAttributesAndReturnString("cdrom");
+checkAttributesAndReturnString("booktitle");
+checkAttributesAndReturnString("crossref");
+checkAttributesAndParseInt("year");
+correctCite("cite");
+
 let data = JSON.stringify(databaseNodeToClean);
 
-fs.writeFile("bookFinal.json", data, err => {
+fs.writeFile("../XML to JSON example/JSON-SampleCorrected.json", data, err => {
     if (err) console.log(err);
     else {
         // console.log(data);
