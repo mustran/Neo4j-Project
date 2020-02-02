@@ -1,0 +1,51 @@
+{
+    "inproceedings": {
+        "$": { "key": "conf/dl/MarchioniniNWDBRGEH97" },
+        "ee": ["db/conf/dl/MarchioniniNWDBRGEH97.html"],
+        "author": [
+            "Gary Marchionini",
+            "Victor Nolet",
+            "Hunter Williams",
+            "Wei Ding",
+            "Josephus Beale Jr.",
+            "Anne Rose",
+            "Allison Gordon",
+            "Ernestine Enomoto",
+            "Lynn Harbinson"
+        ],
+        "title": [
+            "Content + Connectivity => Community: Digital Resources for a Learning Community."
+        ],
+        "pages": ["212-220"],
+        "cdrom": ["DL1997/P212.pdf"],
+        "year": ["1997"],
+        "crossref": ["conf/dl/97"],
+        "booktitle": ["ACM DL"],
+        "url": ["db/conf/dl/dl97.html#MarchioniniNWDBRGEH97"],
+        "cite": [
+            {
+                "_": "conf/chi/AhlbergWS92",
+                "$": { "label": "Ahlberg, Williamson & Shneiderman, 1992" }
+            },
+            { "_": "...", "$": { "label": "Chernock, 1996" } },
+            { "_": "...", "$": { "label": "Christel & Pendyala, 1996" } },
+            { "_": "...", "$": { "label": "Ding, 1996" } },
+            { "_": "...", "$": { "label": "Enomoto, 1997" } },
+            { "_": "...", "$": { "label": "Greeno & Hall, 1997" } },
+            {
+                "_": "journals/mta/HampapurJW95",
+                "$": { "label": "Hampapur, Jain & Weymouth, 1995" }
+            },
+            { "_": "...", "$": { "label": "Kafai & Resnick, 1996" } },
+            { "_": "...", "$": { "label": "Kobla, Doermann & Rosenfeld, 1996" } },
+            { "_": "...", "$": { "label": "Marchionini, 1995" } },
+            { "_": "journals/cacm/MarchioniniM95", "$": { "label": "Marchionini & Maurer, 1995" } },
+            { "_": "...", "$": { "label": "Nolet, Marchionini & Enomoto, 1997" } },
+            { "_": "...", "$": { "label": "Pea, 1996" } },
+            { "_": "...", "$": { "label": "Ruiz, Masullo & El-Shishiny, 1997" } },
+            { "_": "...", "$": { "label": "Shneiderman, 1994" } },
+            { "_": "...", "$": { "label": "Wallace, Krajcik & Soloway, 1996" } },
+            { "_": "conf/sigir/WilliamsonS92", "$": { "label": "Williamson & Shneiderman, 1992" } }
+        ]
+    }
+}
