@@ -1,0 +1,11 @@
+-	Convert data from XML to JSON with xml2json parser
+-	Split data into separate files; from one big JSON object (dblp) to masterthesis, article, phdthesis, www, proceedings, inproceedings, book, incollection and make every single one of them as arryas (wrap in arrays .. for further manipulation)
+-	Use Huge JSON Viewer to see file (imdb) , files (masterthesis, article etc)
+-	Correct key on every file $... with nodejs (scripts)
+-	Find all the keys (key, value) from every file with nodejs (scripts)
+-	Find the occurrence of each key (key,value) in separate files – ex. In Article file (key-111609, year-111609, number-106930 etc)
+-	Correct every file … convert data from arrays and object to primitive types with nodejs (scripts)
+-	Create database diagram for graph-databases
+-	Insert JSON files to neo4j via cypher and create relationships
+-	Use Coalesce for default value (if absent)
+-	Remove the cite … (three dots) with cypher
